@@ -7,4 +7,4 @@
 > npm start
 ```
 
-![ScreenShot](https://raw.github.com/{tiagodavi}/{react-redux-forecast}/{master}/{app.png})
+![alt text](https://raw.githubusercontent.com/tiagodavi/react-redux-forecast/master/app.png)
