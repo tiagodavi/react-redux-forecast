@@ -5,6 +5,7 @@
 > cd react-redux-forecast
 > npm install
 > npm start
+> http://localhost:8080
 ```
 
 ![alt text](https://raw.githubusercontent.com/tiagodavi/react-redux-forecast/master/app.png)
